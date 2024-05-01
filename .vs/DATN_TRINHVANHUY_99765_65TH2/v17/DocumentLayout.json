@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54959639-0C7D-494F-AF72-006C7A285E6C}|DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2.csproj|c:\\users\\huy\\desktop\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\datn_trinhvanhuy_99765_65th2\\datn_trinhvanhuy_99765_65th2\\command\\cmd_choncot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54959639-0C7D-494F-AF72-006C7A285E6C}|DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2.csproj|solutionrelative:datn_trinhvanhuy_99765_65th2\\command\\cmd_choncot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54959639-0C7D-494F-AF72-006C7A285E6C}|DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2.csproj|C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\datn_trinhvanhuy_99765_65th2\\oop\\cls_cot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54959639-0C7D-494F-AF72-006C7A285E6C}|DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2.csproj|solutionrelative:datn_trinhvanhuy_99765_65th2\\oop\\cls_cot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54959639-0C7D-494F-AF72-006C7A285E6C}|DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2.csproj|C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\datn_trinhvanhuy_99765_65th2\\oop\\cls_thepdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54959639-0C7D-494F-AF72-006C7A285E6C}|DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2.csproj|solutionrelative:datn_trinhvanhuy_99765_65th2\\oop\\cls_thepdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54959639-0C7D-494F-AF72-006C7A285E6C}|DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2.csproj|C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\datn_trinhvanhuy_99765_65th2\\oop\\cls_bienchuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54959639-0C7D-494F-AF72-006C7A285E6C}|DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2.csproj|solutionrelative:datn_trinhvanhuy_99765_65th2\\oop\\cls_bienchuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54959639-0C7D-494F-AF72-006C7A285E6C}|DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2.csproj|C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\datn_trinhvanhuy_99765_65th2\\oop\\cls_thepdai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54959639-0C7D-494F-AF72-006C7A285E6C}|DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2.csproj|solutionrelative:datn_trinhvanhuy_99765_65th2\\oop\\cls_thepdai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54959639-0C7D-494F-AF72-006C7A285E6C}|DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2.csproj|C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\datn_trinhvanhuy_99765_65th2\\command\\cmd_dulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54959639-0C7D-494F-AF72-006C7A285E6C}|DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2.csproj|solutionrelative:datn_trinhvanhuy_99765_65th2\\command\\cmd_dulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54959639-0C7D-494F-AF72-006C7A285E6C}|DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2.csproj|C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\datn_trinhvanhuy_99765_65th2\\forms\\viewvethep.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54959639-0C7D-494F-AF72-006C7A285E6C}|DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2.csproj|solutionrelative:datn_trinhvanhuy_99765_65th2\\forms\\viewvethep.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54959639-0C7D-494F-AF72-006C7A285E6C}|DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2.csproj|C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\datn_trinhvanhuy_99765_65th2\\forms\\viewvethep.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54959639-0C7D-494F-AF72-006C7A285E6C}|DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2.csproj|solutionrelative:datn_trinhvanhuy_99765_65th2\\forms\\viewvethep.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cmd_ChonCot.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2\\Command\\Cmd_ChonCot.cs",
+              "RelativeDocumentMoniker": "DATN_TRINHVANHUY_99765_65TH2\\Command\\Cmd_ChonCot.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2\\Command\\Cmd_ChonCot.cs*",
+              "RelativeToolTip": "DATN_TRINHVANHUY_99765_65TH2\\Command\\Cmd_ChonCot.cs*",
+              "ViewState": "AQIAAH8EAAAAAAAAAAAAANgEAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:35:39.579Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cls_ThepDoc.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2\\OOP\\Cls_ThepDoc.cs",
+              "RelativeDocumentMoniker": "DATN_TRINHVANHUY_99765_65TH2\\OOP\\Cls_ThepDoc.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2\\OOP\\Cls_ThepDoc.cs",
+              "RelativeToolTip": "DATN_TRINHVANHUY_99765_65TH2\\OOP\\Cls_ThepDoc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:45:52.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cls_ThepDai.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2\\OOP\\Cls_ThepDai.cs",
+              "RelativeDocumentMoniker": "DATN_TRINHVANHUY_99765_65TH2\\OOP\\Cls_ThepDai.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2\\OOP\\Cls_ThepDai.cs",
+              "RelativeToolTip": "DATN_TRINHVANHUY_99765_65TH2\\OOP\\Cls_ThepDai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:52:55.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cls_Cot.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2\\OOP\\Cls_Cot.cs",
+              "RelativeDocumentMoniker": "DATN_TRINHVANHUY_99765_65TH2\\OOP\\Cls_Cot.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2\\OOP\\Cls_Cot.cs",
+              "RelativeToolTip": "DATN_TRINHVANHUY_99765_65TH2\\OOP\\Cls_Cot.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:30:59.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cmd_Dulieu.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2\\Command\\Cmd_Dulieu.cs",
+              "RelativeDocumentMoniker": "DATN_TRINHVANHUY_99765_65TH2\\Command\\Cmd_Dulieu.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2\\Command\\Cmd_Dulieu.cs",
+              "RelativeToolTip": "DATN_TRINHVANHUY_99765_65TH2\\Command\\Cmd_Dulieu.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwDAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T03:30:49.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cls_BienChuongTrinh.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2\\OOP\\Cls_BienChuongTrinh.cs",
+              "RelativeDocumentMoniker": "DATN_TRINHVANHUY_99765_65TH2\\OOP\\Cls_BienChuongTrinh.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2\\OOP\\Cls_BienChuongTrinh.cs",
+              "RelativeToolTip": "DATN_TRINHVANHUY_99765_65TH2\\OOP\\Cls_BienChuongTrinh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T04:28:09.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewVeThep.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2\\Forms\\ViewVeThep.xaml.cs",
+              "RelativeDocumentMoniker": "DATN_TRINHVANHUY_99765_65TH2\\Forms\\ViewVeThep.xaml.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2\\Forms\\ViewVeThep.xaml.cs",
+              "RelativeToolTip": "DATN_TRINHVANHUY_99765_65TH2\\Forms\\ViewVeThep.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwIoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T10:24:54.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewVeThep.xaml",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2\\Forms\\ViewVeThep.xaml",
+              "RelativeDocumentMoniker": "DATN_TRINHVANHUY_99765_65TH2\\Forms\\ViewVeThep.xaml",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p c\u1EE7a huy\\ph\u1EA7n tin\\DATN_TRINHVANHUY_99765_65TH2\\DATN_TRINHVANHUY_99765_65TH2\\Forms\\ViewVeThep.xaml",
+              "RelativeToolTip": "DATN_TRINHVANHUY_99765_65TH2\\Forms\\ViewVeThep.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-24T10:24:35.804Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 122,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
