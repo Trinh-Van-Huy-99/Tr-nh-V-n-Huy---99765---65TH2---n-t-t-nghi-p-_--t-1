@@ -1,0 +1,16 @@
+﻿<?xml version ="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+
+	<AddIn Type="Application">
+		<Name>DATN-VIDU</Name>
+		<Assembly>C:\Users\HUY\Desktop\Đồ án tốt nghiệp của huy\phần tin\DATN_TRINHVANHUY_99765_65TH2\DATN_TRINHVANHUY_99765_65TH2\bin\Debug\DATN_TRINHVANHUY_99765_65TH2.dll</Assembly>
+		<AddInId>34F0950E-7DD6-4C3D-8198-7A5330E314D1</AddInId>
+		<FullClassName>DATN_TRINHVANHUY_99765_65TH2.ExternalApplication</FullClassName>
+		<Description>DATN TIN HOC XAY DUNG - PHAN MEM X</Description>
+		<VendorId>NGUYEN VAN A</VendorId>
+		<VendorDescription>Software Engineer</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+
+</RevitAddIns>
+

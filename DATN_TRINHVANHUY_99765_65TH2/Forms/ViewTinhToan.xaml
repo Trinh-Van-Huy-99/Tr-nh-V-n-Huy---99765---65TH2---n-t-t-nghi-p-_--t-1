@@ -1,0 +1,130 @@
+﻿<Window x:Class="DATN_TRINHVANHUY_99765_65TH2.Forms.ViewTinhToan"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DATN_TRINHVANHUY_99765_65TH2.Forms"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="1100">
+    <Grid>
+        <!--#region  Chia bố cục giao diện-->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="7*"/>
+        </Grid.ColumnDefinitions>
+        <!--<Grid.RowDefinitions>
+     <RowDefinition Height="200"/>
+     <RowDefinition Height="*"/>
+     </Grid.RowDefinitions>-->
+        <!--#endregion-->
+        <!--#region ô số 1-->
+        <StackPanel Grid.Column="0"
+                    Grid.Row="0"
+                    Background="ForestGreen">
+
+            <!-- Label -->
+            <Label Content="Chọn Bê Tông"
+                   HorizontalAlignment="Left" 
+                   VerticalAlignment="Center"/>
+
+            <!-- ComboBox -->
+            <ComboBox x:Name="comb_ChMBT" 
+                      SelectedIndex="0" 
+                      Width="100" 
+                      Height="30"
+                      HorizontalContentAlignment="Center"
+                      VerticalContentAlignment="Center"
+                      Margin="5 0 0 0">
+                <ComboBoxItem Content="B20"/>
+                <ComboBoxItem Content="B20"/>
+                <ComboBoxItem Content="B25"/>
+            </ComboBox>
+
+            <!-- Label -->
+            <Label Content="Chọn Mác Thép" 
+                   HorizontalAlignment="Left" 
+                   VerticalAlignment="Top"/>
+
+            <!-- ComboBox -->
+            <ComboBox x:Name="comb_ChMThep" 
+                      SelectedIndex="0" 
+                      Width="100"
+                      Height="30"
+                      HorizontalContentAlignment="Center" 
+                      VerticalContentAlignment="Center"
+                      Margin="5,0">
+                <ComboBoxItem Content="CB300-V"/>
+                <ComboBoxItem Content="CB400-V"/>
+            </ComboBox>
+
+            <!-- Label -->
+            <Label Content="Lớp bảo vệ (mm)" 
+                   HorizontalAlignment="Left" 
+                   VerticalAlignment="Top"/>
+
+            <!-- TextBox -->
+            <TextBox Width="100" 
+                     Height="30" 
+                     Margin="0,5"
+                     Text="50"
+                     HorizontalContentAlignment="Center"
+                     VerticalAlignment="Center"/>
+
+            <!-- Label -->
+            <Label Content="Chọn Liên Kết" 
+                   HorizontalAlignment="Left" 
+                   VerticalAlignment="Top"/>
+
+            <!-- ComboBox -->
+            <ComboBox x:Name="comb_ChLienKet" 
+                      SelectedIndex="0" 
+                      Width="100" Height="30"
+                      HorizontalContentAlignment="Center" 
+                      VerticalContentAlignment="Center"
+                      Margin="5,0">
+                <ComboBoxItem Content="Ngàm"/>
+                <ComboBoxItem Content="Khớp"/>
+            </ComboBox>
+
+        </StackPanel>
+        <StackPanel VerticalAlignment="Bottom" 
+                    HorizontalAlignment="Center">
+            <!-- Button -->
+            <Button x:Name="btnTinhtoan" 
+                    Content="Tính toán" 
+                    HorizontalAlignment="Center" 
+                    VerticalAlignment="Bottom" 
+                    Width="100" 
+                    Height="30" 
+                    Margin="0,5"/>
+            <!-- Button -->
+            <Button x:Name="btnLuuVaDong"
+                    Content="Lưu Và Đóng" 
+                    HorizontalAlignment="Center" 
+                    VerticalAlignment="Bottom" 
+                    Width="100"
+                    Height="30" 
+                    Margin="0,5"/>
+        </StackPanel>
+        <!--#endregion-->
+        <!--#region  ô số 2-->
+        <StackPanel Grid.Row="0" Grid.Column="1">
+            <DataGrid>
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Mã cột" ></DataGridTextColumn>
+                    <DataGridTextColumn Header="Vị trí mặt cắt" ></DataGridTextColumn>
+                    <DataGridTextColumn Header="Chiều dài" ></DataGridTextColumn>
+                    <DataGridTextColumn Header="Chiều rộng" ></DataGridTextColumn>
+                    <DataGridTextColumn Header="Chiều cao" ></DataGridTextColumn>
+                    <DataGridTextColumn Header="Mx (KN.m)" ></DataGridTextColumn>
+                    <DataGridTextColumn Header="My (KN.m)" ></DataGridTextColumn>
+                    <DataGridTextColumn Header="N (KN)" ></DataGridTextColumn>
+                    <DataGridTextColumn Header="Qx (KN)" ></DataGridTextColumn>
+                    <DataGridTextColumn Header="Qy (KN)" ></DataGridTextColumn>
+                    <DataGridTextColumn Header="As (cm2)" ></DataGridTextColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+        <!--#endregion-->
+    </Grid>
+</Window>

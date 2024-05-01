@@ -1,0 +1,7 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+	<Style x:Key="lable_black" TargetType="Label">
+		<Setter Property="FontSize" Value="13"></Setter>
+		<Setter Property="FontWeight" Value="SemiBold"></Setter>
+	</Style>
+</ResourceDictionary>
